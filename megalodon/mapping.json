@@ -1,0 +1,28 @@
+{
+  "name": "DOIO",
+  "vendorProductId": 4276969568,
+  "macros": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    ["LT(3,KC_VOLD)", "LT(3,KC_VOLU)", "KC_NO", "TO(0)", "TO(1)", "TO(2)"],
+    ["LT(3,KC_MPRV)", "LT(3,KC_MNXT)", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["LT(3,KC_PGUP)", "LT(3,KC_PGDN)", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_MPLY", "KC_MPLY", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"]
+  ]
+}
