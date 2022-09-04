@@ -2,8 +2,8 @@
   "name": "DOIO",
   "vendorProductId": 4276969568,
   "macros": [
-    "",
-    "",
+    "{KC_SLCK}{KC_SLCK}{KC_1}",
+    "{KC_SLCK}{KC_SLCK}{KC_2}",
     "",
     "",
     "",
@@ -20,9 +20,9 @@
     ""
   ],
   "layers": [
-    ["LT(3,KC_VOLD)", "LT(3,KC_VOLU)", "KC_NO", "TO(0)", "TO(1)", "TO(2)"],
-    ["LT(3,KC_MPRV)", "LT(3,KC_MNXT)", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
-    ["LT(3,KC_PGUP)", "LT(3,KC_PGDN)", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
-    ["KC_MPLY", "KC_MPLY", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"]
+    ["KC_MPRV", "KC_MNXT", "KC_NO", "TO(0)", "KC_MPLY", "TO(1)"],
+    ["MACRO00", "MACRO01", "KC_NO", "KC_TRNS", "RGB_TOG", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_TRNS"]
   ]
 }
